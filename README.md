@@ -56,6 +56,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discordjs" alt="discord.js" title="discord.js" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" title="Gherkin" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform" /></a>
   <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" alt="GitHub Copilot" title="GitHub Copilot" /></a>
