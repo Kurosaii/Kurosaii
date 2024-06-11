@@ -19,6 +19,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" /></a>
   <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="ChatGPT" title="ChatGPT" /></a>
   <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" alt="Chrome" title="Chrome" /></a>
+  <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=datadog" alt="Datadog" title="Datadog" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" title="DynamoDB" /></a>
